@@ -1,0 +1,13 @@
+
+git clone https://github.com/podatkar/AutomateFinancesWithPython.git
+
+http://localhost:8501/
+
+BASH
+
+mapa
+
+C:\DAMIJAN\Git_mapa\AutomateFinancesWithPython
+
+$ streamlit run main.py
+
